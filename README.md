@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on heuristic optimisation
 - 🌱 I’m currently learning linear algebra
-- 👯 I’m looking to collaborate on web visualisation of linear algebra iinsights 
+- 👯 I’m looking to collaborate on web visualisation of linear algebra insights 
 - 🤔 I’m looking for help with understanding machine learnig
 - 💬 Ask me about computer networks
 - 📫 How to reach me: smpdmohanty@gmail.com | @nevesense - instagram and twitter
