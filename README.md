@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<span><img style="float:right" src="https://raw.githubusercontent.com/NeveIsa/neveisa/master/sampad.jpg"></img></span>
+<span><img src="https://raw.githubusercontent.com/NeveIsa/neveisa/master/sampad.jpg" height="50%" width="50%"></img></span>
 - 🔭 I’m currently working on heuristic optimisation
 - 🌱 I’m currently learning linear algebra
 - 👯 I’m looking to collaborate on web visualisation of linear algebra insights 
