@@ -8,7 +8,7 @@
 - 💬 Ask me about computer networks
 - 📫 How to reach me: smpdmohanty@gmail.com | @nevesense - instagram and twitter
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: If body parts were filesystems, would you rather format or defrag the FAT?
+- ⚡ Fun fact: If body parts were filesystems, in which order would you perform the operations `format` and `defrag` on the FAT?
 
 <!--
 **NeveIsa/neveisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
