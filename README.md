@@ -6,9 +6,9 @@
 - 👯 I’m looking to collaborate on web visualisation of linear algebra insights 
 - 🤔 I’m looking for help with understanding machine learning
 - 💬 Ask me about computer networks
-- 📫 How to reach me: smpdmohanty@gmail.com | @nevesense - instagram and twitter
+- 📫 How to reach me: smpdmohanty@gmail.com | @nevesense - instagram
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: If body parts were filesystems, in which order would you perform the operations `format` and `defrag` on the FAT?
+- ⚡ Fun fact: None
 
 <!--
 **NeveIsa/neveisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
