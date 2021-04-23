@@ -2,9 +2,9 @@
 
 <span><img src="https://raw.githubusercontent.com/NeveIsa/neveisa/master/sampad.jpg" align='right'></img></span>
 - 🔭 I’m currently working on heuristic optimisation
-- 🌱 I’m currently learning linear algebra
-- 👯 I’m looking to collaborate on web visualisation of linear algebra insights 
-- 🤔 I’m looking for help with understanding machine learning
+- 🌱 I’m currently learning heuristic algorithms
+- 👯 I’m looking to collaborate on applicaitons of heuristic algorithms
+- 🤔 I’m looking for help with understanding reinforcement learning
 - 💬 Ask me about computer networks
 - 📫 How to reach me: smpdmohanty@gmail.com | @nevesense - instagram
 - 😄 Pronouns: He/Him/His
