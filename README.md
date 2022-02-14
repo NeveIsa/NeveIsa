@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 <span><img src="https://raw.githubusercontent.com/NeveIsa/neveisa/master/sampad.jpg" align='right'></img></span>
-- 🔭 I’m currently working on heuristic optimisation
-- 🌱 I’m currently learning heuristic algorithms
-- 👯 I’m looking to collaborate on applicaitons of heuristic algorithms
-- 🤔 I’m looking for help with understanding reinforcement learning
-- 💬 Ask me about computer networks
+- 🔭 I’m currently working on tensors
+- 🌱 I’m currently learning convex optimisation
+- 👯 I’m looking to collaborate on applicaitons of linear algebra and numerical analysis
+- 🤔 I’m looking for help with understanding stochastic processes
+- 💬 Ask me about linear algebra and computer networks
 - 📫 How to reach me: smpdmohanty@gmail.com | @nevesense - instagram
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: None
+- ⚡ Fun fact: Anaconda ships python.
 
 <!--
 **NeveIsa/neveisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
