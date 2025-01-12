@@ -2,10 +2,10 @@
 
 <span><img src="https://raw.githubusercontent.com/NeveIsa/neveisa/master/sampad.jpg" align='right'></img></span>
 - 🔭 I’m currently working on tensors
-- 🌱 I’m currently learning convex optimisation
-- 👯 I’m looking to collaborate on applicaitons of linear algebra and numerical analysis
+- 🌱 I’m currently learning probabilistic programming
+- 👯 I’m looking to collaborate on applicaitons of probabilistic programming and numerical analysis
 - 🤔 I’m looking for help with understanding stochastic processes
-- 💬 Ask me about linear algebra and computer networks
+- 💬 Ask me about machine learning and computer networks
 - 📫 How to reach me: smpdmohanty@gmail.com | @nevesense - instagram
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Anaconda ships python.
